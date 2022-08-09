@@ -3,5 +3,5 @@
 ### Para ver o resultado, clique [AQUI](https://raissagd.github.io/tabela-de-precos/)
 
 
-### Imagens no link: https://www.flaticon.com/stickers-pack/series-movies-lover?word=movie
-### Baseado na atividade do curso The Web Developr Bootcamp, de Colt Steele.
+#### Imagens [nesse link] (https://www.flaticon.com/stickers-pack/series-movies-lover?word=movie)
+#### Baseado na atividade do curso The Web Developr Bootcamp, de Colt Steele.
